@@ -1,11 +1,16 @@
 # Inventory Management System
 
-#Features
+# Features
 -Dashboard
+
 -Multi-level Access Privilege
+
 -Auto Due Update
+
 -Elegant UI and Robust Visualization
+
 -Relational Database Oriented System
+
 -Multi-threaded
 
 # Class Diagram
